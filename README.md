@@ -1,4 +1,4 @@
-# yesdok-blog-nuxt
+# blog-nuxt
 
 ## Build Setup
 
